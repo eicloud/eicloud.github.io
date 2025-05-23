@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "极智云",
-  description: "简单、智能、高效。为企业增效降本。",
+  description: "简单、智能、高效，为企业增效降本",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
