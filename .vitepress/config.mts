@@ -8,11 +8,13 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
+      { text: '销售报价', link: '/sales-quotation' },
       { text: '项目管理', link: '/pm' },
       { text: '工单管理', link: '/work-order' }
     ],
 
     sidebar: [
+      { text: '销售报价', link: '/sales-quotation' },
       { text: '项目管理', link: '/pm' },
       { text: '工单管理', link: '/work-order' }
     ],
