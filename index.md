@@ -3,17 +3,20 @@ layout: home
 
 hero:
   name: "极智云"
-  text: "简单、智能、高效。为企业增效降本。"
+  text: "简单、智能、高效，为企业增效降本。"
   tagline: 项目管理 智能报价 客诉 服务 工单 电商
   actions:
     - theme: brand
       text: 项目管理
       link: /pm
     - theme: alt
-      text: 工单管理
-      link: /work-order
+      text: 智能报价
+      link: /sales-quotation
+    - theme: alt
+      text: 联系我们
+      link: /contact
   image:
-    src: /pm/image/实施计划图表.png
+    src: /logo.png
 
 features:
   - title: 全链路管理
