@@ -3,8 +3,21 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "极智云",
-  description: "简单、智能、高效，为企业增效降本",
+  description: "简单、智能、高效，为企业增效降本。项目管理 智能报价 客诉 服务 工单 电商",
   lang: 'zh-CN',
+
+  head: [
+    // 百度统计
+    ['script', {}, `
+      var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?974601e067e0479b8dde80d6b37254a7";
+        var s = document.getElementsByTagName("script")[0]; 
+        s.parentNode.insertBefore(hm, s);
+      })();
+    `]
+  ],
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
