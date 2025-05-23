@@ -10,13 +10,15 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '销售报价', link: '/sales-quotation' },
       { text: '项目管理', link: '/pm' },
-      { text: '工单管理', link: '/work-order' }
+      { text: '工单管理', link: '/work-order' },
+      { text: '联系我们', link: '/contact' }
     ],
 
     sidebar: [
       { text: '销售报价', link: '/sales-quotation' },
       { text: '项目管理', link: '/pm' },
-      { text: '工单管理', link: '/work-order' }
+      { text: '工单管理', link: '/work-order' },
+      { text: '联系我们', link: '/contact' }
     ],
 
     socialLinks: [
