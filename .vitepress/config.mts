@@ -4,6 +4,8 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "极智云",
   description: "简单、智能、高效，为企业增效降本",
+  lang: 'zh-CN',
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -24,6 +26,34 @@ export default defineConfig({
     socialLinks: [
       // { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ],
+
+    outline: {
+      label: '页面导航'
+    },
+    returnToTopLabel: '回到顶部',
+
+    docFooter: {
+      prev: '上一页',
+      next: '下一页',
+    },
+
+    // lastUpdated: {
+    //   text: '最后更新于'
+    // },
+
+    notFound: {
+      title: '页面未找到',
+      quote: '但如果你不改变方向，并且继续寻找，你可能最终会到达你所前往的地方。',
+      linkLabel: '前往首页',
+      linkText: '带我回首页'
+    },
+
+    langMenuLabel: '多语言',
+    sidebarMenuLabel: '菜单',
+    darkModeSwitchLabel: '主题',
+    lightModeSwitchTitle: '切换到浅色模式',
+    darkModeSwitchTitle: '切换到深色模式',
+    skipToContentLabel: '跳转到内容',
 
     footer: {
       message: '简单 智能 高效 降本',
