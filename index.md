@@ -10,8 +10,12 @@ hero:
       text: 项目管理
       link: /pm
     - theme: alt
+      text: 超级图册
+      link: /album-plus
+    - theme: alt
       text: 智能报价
-      link: /sales-quotation
+      # link: /sales-quotation
+      link: /album-plus
     - theme: alt
       text: 联系我们
       link: /contact

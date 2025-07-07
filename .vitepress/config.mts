@@ -23,14 +23,18 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '销售报价', link: '/sales-quotation' },
+      { text: '超级图册', link: '/album-plus' },
+      // { text: '销售报价', link: '/sales-quotation' },
+      { text: '销售报价', link: '/album-plus' },
       { text: '项目管理', link: '/pm' },
       { text: '工单管理', link: '/work-order' },
       { text: '联系我们', link: '/contact' }
     ],
 
     sidebar: [
-      { text: '销售报价', link: '/sales-quotation' },
+      { text: '超级图册', link: '/album-plus' },
+      // { text: '销售报价', link: '/sales-quotation' },
+      { text: '销售报价', link: '/album-plus' },
       { text: '项目管理', link: '/pm' },
       { text: '工单管理', link: '/work-order' },
       { text: '联系我们', link: '/contact' }
@@ -70,7 +74,7 @@ export default defineConfig({
 
     footer: {
       message: '简单 智能 高效 降本',
-      copyright: 'Copyright © 2019-2025 极智云'
+      copyright: 'Copyright © 2009-2025 极智云'
     }
   }
 })
