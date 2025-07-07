@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "极智云"
-  text: "简单、智能、高效，为企业增效降本。"
-  tagline: 项目管理 智能报价 客诉 服务 工单 电商
+  text: "简单、智能、高效，为企业增效降本"
+  tagline: 项目管理 超级图册 智能报价 工单 电商 支付
   actions:
     - theme: brand
       text: 项目管理
