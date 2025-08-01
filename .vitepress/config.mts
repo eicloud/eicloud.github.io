@@ -24,19 +24,20 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '超级图册', link: '/album-plus' },
+      { text: '超级图册-移动端', link: '/album-plus/mobile' },
       // { text: '销售报价', link: '/sales-quotation' },
       { text: '销售报价', link: '/album-plus' },
       { text: '项目管理', link: '/pm' },
-      { text: '工单管理', link: '/work-order' },
       { text: '联系我们', link: '/contact' }
     ],
 
     sidebar: [
       { text: '超级图册', link: '/album-plus' },
+      { text: '超级图册-移动端', link: '/album-plus/mobile' },
       // { text: '销售报价', link: '/sales-quotation' },
       { text: '销售报价', link: '/album-plus' },
       { text: '项目管理', link: '/pm' },
-      { text: '工单管理', link: '/work-order' },
+      // { text: '工单管理', link: '/work-order' },
       { text: '联系我们', link: '/contact' }
     ],
 

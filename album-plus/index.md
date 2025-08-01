@@ -8,6 +8,9 @@ hero:
   tagline: 产品图册数字化管理，报价方案，报价清单生成，一键分享给客户
   actions:
     - theme: brand
+      text: 移动端
+      link: ./mobile
+    - theme: brand
       text: 联系我们
       link: /contact
   image:
