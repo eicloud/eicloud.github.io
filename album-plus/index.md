@@ -13,6 +13,12 @@ hero:
     - theme: brand
       text: 联系我们
       link: /contact
+    - theme: brand
+      text: 进入电脑版
+      link: https://pc.album.eintelli.cn/
+    - theme: brand
+      text: 进入移动版
+      link: https://m.album.eintelli.cn/
   image:
     src: /logo-album-plus.png
 
@@ -27,6 +33,14 @@ features:
     details: 为赋能市场销售快速与客户沟通。系统一键生成产品分享图，产品分享链接二维码，产品图册PDF，报价清单二维码，报价清单excel等物料，方便对外分享或投放。
 ---
 <br/>
+
+
+支持多种客户端登录使用：<br/>
+电脑版（电脑浏览器使用）：https://pc.album.eintelli.cn/ <br/>
+h5版（手机浏览器使用）：https://m.album.eintelli.cn/ <br/>
+小程序版（微信小程序使用）: <br/>
+<img src="./image/小程序/智能云图册-小程序-正式.png" style="width:266px;" />
+
 <br/>
 
 # {{ $frontmatter.title }}
@@ -42,10 +56,10 @@ features:
 
 
 ## 3.产品库
-![](./image/电脑版/03-产品库01.png)
-<br/>
-<br/>
 ![](./image/电脑版/03-产品库.png)
+<br/>
+产品库-长图
+![](./image/电脑版/03-产品库-长图.png)
 
 ### 产品库-产品筛选
 ![](./image/电脑版/03-产品库-系列颜色过虑.png)
@@ -90,6 +104,9 @@ features:
 
 ### 方案设计-预览
 ![](./image/电脑版/05-方案编辑-预览.png)
+<br/>
+预览-长图<br/>
+![](./image/电脑版/05-方案编辑-预览-长图.png)
 
 
 ## 7.报价清单
@@ -121,6 +138,12 @@ features:
 产品图
 ![](./image/电脑版/06-产品管理-图库管理-产品图.png)
 
+
+## 9.工程案例
+![](./image/电脑版/07-工程案例.png)
+
+## 10.品牌资料
+![](./image/电脑版/08-品牌资料.png)
 
 ## 移动端功能清单
 
@@ -233,8 +256,8 @@ features:
 
 # 联系我们（极智云）
 如果您有软件需求或咨询，请联系我们，竭诚为您提供专业信息化服务。<br/>
-联系电话：15928679486（祝先生）
+联系电话：15928679486（祝先生）<br/>
 
-微信二维码（请扫码添加）
+微信二维码（请扫码添加）<br/>
 
 ![](../contact/wechat-qrcode-zj.png)
