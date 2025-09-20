@@ -22,14 +22,14 @@ layout: home
               <li><i class="fas fa-check"></i> 电脑版，小程序，H5</li>
               <li><i class="fas fa-check"></i> 标准支持</li>
               <li><i class="fas fa-times"></i> 高级集成</li>
-              <li><i class="fas fa-times"></i> 自定义品牌</li>
+              <li><i class="fas fa-times"></i> 自定义系统品牌</li>
           </ul>
           <a href="/contact/" class="btn btn-outline">开始免费试用</a>
       </div>
       <!-- 专业版 -->
       <div class="pricing-card professional popular">
           <h2 class="plan-name">专业版</h2>
-          <p class="plan-description">适合小型团队或初创企业的基础功能套餐</p>
+          <p class="plan-description">适合小型团队或小型企业的基础功能套餐</p>
           <div class="price">¥36666 <span>/年</span></div>
           <p class="billing-cycle">按年计费</p>
           <ul class="features">
@@ -38,7 +38,7 @@ layout: home
               <li><i class="fas fa-check"></i> 电脑版，小程序，H5</li>
               <li><i class="fas fa-check"></i> 标准支持</li>
               <li><i class="fas fa-times"></i> 高级集成</li>
-              <li><i class="fas fa-times"></i> 自定义品牌</li>
+              <li><i class="fas fa-times"></i> 自定义系统品牌</li>
           </ul>
           <a href="/contact/" class="btn btn-primary">开始免费试用</a>
       </div>
@@ -54,14 +54,14 @@ layout: home
               <li><i class="fas fa-check"></i> 电脑版，小程序，H5</li>
               <li><i class="fas fa-check"></i> 专属支持</li>
               <li><i class="fas fa-times"></i> 高级集成</li>
-              <li><i class="fas fa-times"></i> 自定义品牌</li>
+              <li><i class="fas fa-times"></i> 自定义系统品牌</li>
           </ul>
           <a href="/contact/" class="btn btn-outline">联系销售团队</a>
       </div>
       <!-- 旗舰版 -->
       <div class="pricing-card flagship">
           <h2 class="plan-name">旗舰版</h2>
-          <p class="plan-description">适合大型企业，提供完全定制化解决方案</p>
+          <p class="plan-description">适合中大型企业，包含高级功能和支持</p>
           <div class="price">¥99999 <span>/年</span></div>
           <p class="billing-cycle">按年计费</p>
           <ul class="features">
@@ -70,14 +70,14 @@ layout: home
               <li><i class="fas fa-check"></i> 电脑版，小程序，H5</li>
               <li><i class="fas fa-check"></i> 7*24专属支持</li>
               <li><i class="fas fa-check"></i> 接口集成</li>
-              <li><i class="fas fa-times"></i> 自定义品牌</li>
+              <li><i class="fas fa-times"></i> 自定义系统品牌</li>
           </ul>
           <a href="/contact/" class="btn btn-outline">联系销售团队</a>
       </div>
       <!-- 定制版 -->
       <div class="pricing-card customized">
           <h2 class="plan-name">定制版</h2>
-          <p class="plan-description">适合大型企业，提供完全定制化解决方案</p>
+          <p class="plan-description">适合中大型企业，提供完全定制化解决方案</p>
           <div class="price">定制价格</div>
           <p class="billing-cycle">根据需求定制方案</p>
           <ul class="features">
@@ -87,7 +87,7 @@ layout: home
               <li><i class="fas fa-check"></i> 7*24专属支持</li>
               <li><i class="fas fa-check"></i> 完全自定义集成</li>
               <li><i class="fas fa-check"></i> 白标解决方案</li>
-              <li><i class="fas fa-check"></i> 自定义品牌</li>
+              <li><i class="fas fa-check"></i> 自定义系统品牌</li>
               <li><i class="fas fa-check"></i> 企业私有化部署</li>
           </ul>
           <a href="/contact/" class="btn btn-outline">联系销售团队</a>
@@ -103,7 +103,7 @@ layout: home
           </div>
           <div class="faq-item">
               <h3 class="faq-question">是否有隐藏费用？</h3>
-              <p class="faq-answer">没有，我们的定价透明，所有计划包含的费用都已明确列出。企业版可能需要根据定制需求额外收费。</p>
+              <p class="faq-answer">没有，我们的定价透明，所有计划包含的费用都已明确列出。定制版可能需要根据定制需求额外收费。</p>
           </div>
       </div>
   </div>
