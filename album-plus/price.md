@@ -109,6 +109,13 @@ layout: home
   </div>
 </div>
 
+### 超级图册支持多种客户端登录使用
+电脑版（电脑浏览器使用）：https://pc.album.eintelli.cn/ <br/>
+h5版（手机浏览器使用）：https://m.album.eintelli.cn/ <br/>
+小程序版（微信小程序使用）: <br/>
+<img src="./image/小程序/智能云图册-小程序-正式.png" style="width:266px;" />
+
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
 <style>
