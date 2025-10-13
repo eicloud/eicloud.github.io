@@ -28,7 +28,8 @@ export default defineConfig({
       // { text: '销售报价', link: '/sales-quotation' },
       { text: '销售报价', link: '/album-plus' },
       { text: '项目管理', link: '/pm' },
-      { text: '联系我们', link: '/contact' }
+      { text: '联系我们', link: '/contact' },
+      { text: '加入我们', link: '/job' },
     ],
 
     sidebar: [
@@ -38,7 +39,8 @@ export default defineConfig({
       { text: '销售报价', link: '/album-plus' },
       { text: '项目管理', link: '/pm' },
       // { text: '工单管理', link: '/work-order' },
-      { text: '联系我们', link: '/contact' }
+      { text: '联系我们', link: '/contact' },
+      { text: '加入我们', link: '/job' },
     ],
 
     socialLinks: [
