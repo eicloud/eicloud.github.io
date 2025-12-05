@@ -3,51 +3,60 @@
 支持公式：实现业务计算规则可配置化。<br/>
 支持数据联动：关联数据，选择数据，填充数据。实现各业务表单数据关联<br/>
 
-## 设计器示例:
-以下用实际业务场景展示表单引擎功能特点。
+## 表单引擎示例:
+下面用商机管理实际业务场景展示表单引擎功能和特点。
 
 ## 商机-表单设计
-![](./image/03-CRM-商机-设计.png)
-![](./image/03-CRM-商机-设计2.png)
+<img src="./image/03-CRM-商机-设计.png" class="pc-img"/>
+<br/>
+<img src="./image/03-CRM-商机-设计2.png" class="pc-img"/>
 
 ## 商机-数据管理
-![](./image/03-CRM-商机.png)
+<img src="./image/03-CRM-商机.png" class="pc-img"/>
 
 ## 商机-数据编辑
-![](./image/03-CRM-商机-修改.png)
+<img src="./image/03-CRM-商机-修改.png" class="pc-img"/>
 <br/>
-![](./image/03-CRM-商机-修改2.png)
+<img src="./image/03-CRM-商机-修改2.png" class="pc-img"/>
 
 ## 商机-选择客户-配置
-![](./image/03-CRM-商机-设计-选择客户.png)
+<img src="./image/03-CRM-商机-设计-选择客户.png" class="pc-img"/>
 
 ## 商机-选择客户-配置-填充规则
-![](./image/03-CRM-商机-设计-选择客户-填充规则.png)
+<img src="./image/03-CRM-商机-设计-选择客户-填充规则.png" class="pc-img"/>
 
 ## 商机-选择客户
-![](./image/03-CRM-商机-选择客户.png)
+<img src="./image/03-CRM-商机-选择客户.png" class="pc-img"/>
 
 ## 商机-产品明细-子表单-配置
-![](./image/03-CRM-商机-设计-子表单.png)
+<img src="./image/03-CRM-商机-设计-子表单.png" class="pc-img"/>
 
 ## 商机-从组织中选择负责人
-![](./image/03-CRM-商机-修改-选择员工.png)
+<img src="./image/03-CRM-商机-修改-选择员工.png" class="pc-img"/>
 
 ## 商机-业务公式-原单总价
-![](./image/03-CRM-商机-设计-原单总价公式.png)
+<img src="./image/03-CRM-商机-设计-原单总价公式.png" class="pc-img"/>
 
 ## 商机-业务公式-折扣率
-![](./image/03-CRM-商机-设计-折扣率公式.png)
+<img src="./image/03-CRM-商机-设计-折扣率公式.png" class="pc-img"/>
 
 ## 开票申请-附件
-![](./image/03-CRM-开票申请-设计-附件.png)
+<img src="./image/03-CRM-开票申请-设计-附件.png" class="pc-img"/>
 
 ## 产品信息-图片
-![](./image/03-CRM-产品信息-设计-图片.png)
-![](./image/03-CRM-产品信息-编辑.png)
-![](./image/03-CRM-产品信息.png)
+<img src="./image/03-CRM-产品信息-设计-图片.png" class="pc-img"/>
+<br/>
+<img src="./image/03-CRM-产品信息-编辑.png" class="pc-img"/>
+<br/>
+<img src="./image/03-CRM-产品信息.png" class="pc-img"/>
 
 ## 工作台
 极智云表单引擎与工作台配合，可为企业量身定制搭建满足企业需求的信息化应用系统。
 
-![](./image/01-工作台.png)
+<img src="./image/01-工作台.png" class="pc-img"/>
+
+<style scoped>
+.pc-img {
+  border: 1px solid #eee;
+}
+</style>

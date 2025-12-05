@@ -13,9 +13,11 @@ hero:
       text: 超级图册
       link: /album-plus
     - theme: alt
-      text: 智能报价
-      # link: /sales-quotation
-      link: /album-plus
+      text: 表单引擎
+      link: /form-engine
+    - theme: alt
+      text: 仪表盘引擎
+      link: /dash-engine
     - theme: alt
       text: 联系我们
       link: /contact
