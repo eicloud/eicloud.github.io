@@ -13,6 +13,9 @@ hero:
       text: 超级图册
       link: /album-plus
     - theme: alt
+      text: CRM
+      link: /crm
+    - theme: alt
       text: 表单引擎
       link: /form-engine
     - theme: alt

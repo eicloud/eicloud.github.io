@@ -25,7 +25,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '超级图册', link: '/album-plus' },
       { text: '超级图册-移动端', link: '/album-plus/mobile' },
-      // { text: '销售报价', link: '/sales-quotation' },
+      { text: 'CRM', link: '/crm' },
       { text: '表单引擎', link: '/form-engine' },
       { text: '仪表盘引擎', link: '/dash-engine' },
       { text: '项目管理', link: '/pm' },
@@ -36,7 +36,7 @@ export default defineConfig({
     sidebar: [
       { text: '超级图册', link: '/album-plus' },
       { text: '超级图册-移动端', link: '/album-plus/mobile' },
-      // { text: '销售报价', link: '/sales-quotation' },
+      { text: 'CRM', link: '/crm' },
       { text: '表单引擎', link: '/form-engine' },
       { text: '仪表盘引擎', link: '/dash-engine' },
       { text: '项目管理', link: '/pm' },
