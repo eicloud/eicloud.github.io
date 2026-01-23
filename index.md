@@ -22,6 +22,9 @@ hero:
       text: 仪表盘引擎
       link: /dash-engine
     - theme: alt
+      text: 零代码平台
+      link: /zerocode
+    - theme: alt
       text: 联系我们
       link: /contact
   image:
