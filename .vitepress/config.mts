@@ -47,6 +47,8 @@ export default defineConfig({
       { text: '加入我们', link: '/job' },
     ],
 
+    externalLinkIcon: true,
+
     socialLinks: [
       // { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ],

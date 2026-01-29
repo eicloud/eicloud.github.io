@@ -5,7 +5,7 @@
 支持多种客户端登录使用：<br/>
 电脑版（电脑浏览器使用）：https://pc.album.eintelli.cn/ <br/>
 h5版（手机浏览器使用）：https://m.album.eintelli.cn/ <br/>
-小程序版（微信小程序使用）: <br/>
+小程序版（微信长按图片进入小程序）: <br/>
 <img src="./image/小程序/智能云图册-小程序-正式.png" style="width:266px;" />
 
 ## 1.主页
