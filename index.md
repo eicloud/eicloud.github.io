@@ -4,31 +4,31 @@ layout: home
 hero:
   name: "极智云"
   text: "简单、智能、高效，为企业增效降本"
-  tagline: 项目管理 超级图册 智能报价 工单 电商 支付
+  tagline: 企业数智化转型的敏捷引擎，让创新更快落地，让数据驱动决策——极智云，您身边的数字化转型伙伴。
   actions:
     - theme: brand
-      text: 项目管理
-      link: /pm
-    - theme: alt
       text: 超级图册
       link: /album-plus
-    - theme: alt
-      text: CRM
-      link: /crm
     - theme: alt
       text: 表单引擎
       link: /form-engine
     - theme: alt
       text: 仪表盘引擎
       link: /dash-engine
-    - theme: alt
+    - theme: brand
       text: 零代码平台
       link: /zerocode
     - theme: alt
+      text: CRM
+      link: /crm
+    - theme: alt
+      text: 项目管理
+      link: /pm
+    - theme: brand
       text: 联系我们
       link: /contact
   image:
-    src: /logo.png
+    src: /logo-crm.png
 
 features:
   - title: 项目全链路管理

@@ -3,10 +3,11 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "极智云",
-  description: "简单、智能、高效，为企业增效降本。图册 项目管理 智能报价 客诉 服务 工单 电商",
+  description: "极智云是企业数智化转型的敏捷引擎。超级图册。零代码应用搭建平台，帮助各行业人员在不使用代码的情况下快速搭建个性化的CRM、ERP、OA、项目管理、CMS内容管理、进销存等系统，产品包含自定义表单、自定义报表、自定义流程、工作台、组织架构、团队协作等功能，适用于各种业务场景，大幅降低开发与运维成本。让创新更快落地，让数据驱动决策——极智云，您身边的数字化转型伙伴。",
   lang: 'zh-CN',
 
   head: [
+    ['meta', {name: 'keywords', content: '超级图册，零代码，低代码，apaas，在线表单，表单引擎，流程引擎，仪表盘，在线报表，报表引擎，数据管理，工作台，应用搭建，组织架构，可视化设计器，自定义公式，CRM，ERP，CMS，OA'}],
     // 百度统计
     ['script', {}, `
       var _hmt = _hmt || [];
@@ -25,24 +26,24 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '超级图册', link: '/album-plus' },
       { text: '超级图册-移动端', link: '/album-plus/mobile' },
-      { text: 'CRM', link: '/crm' },
       { text: '表单引擎', link: '/form-engine' },
       { text: '仪表盘引擎', link: '/dash-engine' },
       { text: '零代码平台', link: '/zerocode' },
+      { text: 'CRM', link: '/crm' },
       { text: '项目管理', link: '/pm' },
       { text: '联系我们', link: '/contact' },
       { text: '加入我们', link: '/job' },
     ],
 
     sidebar: [
+      { text: '首页', link: '/' },
       { text: '超级图册', link: '/album-plus' },
       { text: '超级图册-移动端', link: '/album-plus/mobile' },
-      { text: 'CRM', link: '/crm' },
       { text: '表单引擎', link: '/form-engine' },
       { text: '仪表盘引擎', link: '/dash-engine' },
       { text: '零代码平台', link: '/zerocode' },
+      { text: 'CRM', link: '/crm' },
       { text: '项目管理', link: '/pm' },
-      // { text: '工单管理', link: '/work-order' },
       { text: '联系我们', link: '/contact' },
       { text: '加入我们', link: '/job' },
     ],
