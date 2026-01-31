@@ -22,7 +22,7 @@ layout: home
               <li><i class="fas fa-check"></i> 电脑版，小程序，H5</li>
               <li><i class="fas fa-check"></i> 标准支持</li>
           </ul>
-          <a href="/contact/" class="btn btn-primary">开始免费试用</a>
+          <a href="https://pc.album.eintelli.cn/auth/trial" target="_blank" class="btn btn-primary">开始免费试用</a>
       </div>
       <!-- 企业版 -->
       <div class="pricing-card enterprise popular">
