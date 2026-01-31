@@ -1,6 +1,7 @@
 ---
 layout: home
 title: 超级图册系统
+description: 产品图册数字化管理，报价方案，报价清单生成，一键分享给客户
 
 hero:
   name: "极智云超级图册系统"

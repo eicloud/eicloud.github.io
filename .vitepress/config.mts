@@ -1,4 +1,4 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig, HeadConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -9,6 +9,7 @@ export default defineConfig({
   head: [
     ['link', {rel:'icon', href:'/favicon.ico'}],
     ['meta', {name: 'keywords', content: '超级图册，零代码，低代码，apaas，在线表单，表单引擎，流程引擎，仪表盘，在线报表，报表引擎，数据管理，工作台，应用搭建，组织架构，可视化设计器，自定义公式，CRM，ERP，CMS，OA'}],
+    
     // 百度统计
     ['script', {}, `
       var _hmt = _hmt || [];
@@ -20,6 +21,41 @@ export default defineConfig({
       })();
     `]
   ],
+
+  transformPageData(pageData, ctx) {
+    const { frontmatter } = pageData;
+    let head: HeadConfig[] = frontmatter.head;
+    if (!head) {
+      head = [];
+      frontmatter.head = head;
+    }
+
+    
+    // og
+    head.push([
+      'meta',
+      {
+        property: 'og:title',
+        content: pageData.title ? `${pageData.title} | ${ctx.siteConfig.site.title}` : ctx.siteConfig.site.title,
+      }
+    ]);
+    if (pageData.description) {
+      head.push([
+        'meta',
+        {
+          property: 'og:description',
+          content: pageData.description,
+        }
+      ]);
+    }
+    head.push([
+      'meta',
+      {
+        property: 'og:image',
+        content: frontmatter.image ?? 'https://www.eintelli.cn/platform-logo.webp',
+      }
+    ]);
+  },
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
