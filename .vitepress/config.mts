@@ -7,6 +7,7 @@ export default defineConfig({
   lang: 'zh-CN',
 
   head: [
+    ['link', {rel:'icon', href:'/favicon.ico'}],
     ['meta', {name: 'keywords', content: '超级图册，零代码，低代码，apaas，在线表单，表单引擎，流程引擎，仪表盘，在线报表，报表引擎，数据管理，工作台，应用搭建，组织架构，可视化设计器，自定义公式，CRM，ERP，CMS，OA'}],
     // 百度统计
     ['script', {}, `
