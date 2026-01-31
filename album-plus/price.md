@@ -10,85 +10,77 @@ layout: home
   </header>
   
   <div class="pricing-container">
-      <!-- 入门版 -->
-      <div class="pricing-card starter">
-          <h2 class="plan-name">入门版</h2>
-          <p class="plan-description">适合小型团队或初创企业的基础功能套餐</p>
-          <div class="price">¥29999 <span>/年</span></div>
-          <p class="billing-cycle">按年计费</p>
-          <ul class="features">
-              <li><i class="fas fa-check"></i> 最多5个用户</li>
-              <li><i class="fas fa-check"></i> 5GB存储空间</li>
-              <li><i class="fas fa-check"></i> 电脑版，小程序，H5</li>
-              <li><i class="fas fa-check"></i> 标准支持</li>
-              <li><i class="fas fa-times"></i> 高级集成</li>
-              <li><i class="fas fa-times"></i> 自定义系统品牌</li>
-          </ul>
-          <a href="/contact/" class="btn btn-outline">开始免费试用</a>
-      </div>
       <!-- 专业版 -->
-      <div class="pricing-card professional popular">
+      <div class="pricing-card professional">
           <h2 class="plan-name">专业版</h2>
           <p class="plan-description">适合小型团队或小型企业的基础功能套餐</p>
-          <div class="price">¥36666 <span>/年</span></div>
+          <div class="price">¥3650 <span>/年</span></div>
           <p class="billing-cycle">按年计费</p>
           <ul class="features">
-              <li><i class="fas fa-check"></i> 最多10个用户</li>
-              <li><i class="fas fa-check"></i> 10GB存储空间</li>
+              <li><i class="fas fa-check"></i> 10个用户</li>
+              <li><i class="fas fa-check"></i> 10GB图片存储空间</li>
               <li><i class="fas fa-check"></i> 电脑版，小程序，H5</li>
               <li><i class="fas fa-check"></i> 标准支持</li>
-              <li><i class="fas fa-times"></i> 高级集成</li>
-              <li><i class="fas fa-times"></i> 自定义系统品牌</li>
           </ul>
           <a href="/contact/" class="btn btn-primary">开始免费试用</a>
       </div>
       <!-- 企业版 -->
-      <div class="pricing-card enterprise">
+      <div class="pricing-card enterprise popular">
           <h2 class="plan-name">企业版</h2>
           <p class="plan-description">适合中小型企业，包含高级功能和支持</p>
-          <div class="price">¥49999 <span>/年</span></div>
+          <div class="price">¥7300 <span>/年</span></div>
           <p class="billing-cycle">按年计费</p>
           <ul class="features">
-              <li><i class="fas fa-check"></i> 最多20个用户</li>
-              <li><i class="fas fa-check"></i> 20GB存储空间</li>
+              <li><i class="fas fa-check"></i> 20个用户</li>
+              <li><i class="fas fa-check"></i> 20GB图片存储空间</li>
               <li><i class="fas fa-check"></i> 电脑版，小程序，H5</li>
               <li><i class="fas fa-check"></i> 专属支持</li>
-              <li><i class="fas fa-times"></i> 高级集成</li>
-              <li><i class="fas fa-times"></i> 自定义系统品牌</li>
           </ul>
           <a href="/contact/" class="btn btn-outline">联系销售团队</a>
       </div>
       <!-- 旗舰版 -->
       <div class="pricing-card flagship">
           <h2 class="plan-name">旗舰版</h2>
-          <p class="plan-description">适合中大型企业，包含高级功能和支持</p>
-          <div class="price">¥99999 <span>/年</span></div>
+          <p class="plan-description">适合中型企业，包含高级功能和支持</p>
+          <div class="price">¥18250 <span>/年</span></div>
           <p class="billing-cycle">按年计费</p>
           <ul class="features">
-              <li><i class="fas fa-check"></i> 最多50个用户</li>
-              <li><i class="fas fa-check"></i> 50GB存储空间</li>
+              <li><i class="fas fa-check"></i> 50个用户</li>
+              <li><i class="fas fa-check"></i> 50GB图片存储空间</li>
               <li><i class="fas fa-check"></i> 电脑版，小程序，H5</li>
               <li><i class="fas fa-check"></i> 7*24专属支持</li>
-              <li><i class="fas fa-check"></i> 接口集成</li>
-              <li><i class="fas fa-times"></i> 自定义系统品牌</li>
+          </ul>
+          <a href="/contact/" class="btn btn-outline">联系销售团队</a>
+      </div>
+      <!-- 钻石版 -->
+      <div class="pricing-card diamond">
+          <h2 class="plan-name">钻石版</h2>
+          <p class="plan-description">适合中大型企业，包含高级功能和支持</p>
+          <div class="price">¥36500 <span>/年</span></div>
+          <p class="billing-cycle">按年计费</p>
+          <ul class="features">
+              <li><i class="fas fa-check"></i> 100个用户</li>
+              <li><i class="fas fa-check"></i> 100GB图片存储空间</li>
+              <li><i class="fas fa-check"></i> 电脑版，小程序，H5</li>
+              <li><i class="fas fa-check"></i> 7*24专属支持</li>
           </ul>
           <a href="/contact/" class="btn btn-outline">联系销售团队</a>
       </div>
       <!-- 定制版 -->
       <div class="pricing-card customized">
           <h2 class="plan-name">定制版</h2>
-          <p class="plan-description">适合中大型企业，提供完全定制化解决方案</p>
-          <div class="price">定制价格</div>
+          <p class="plan-description">适合中大型企业，提供完全定制化企业本地部署方案</p>
+          <div class="price">¥50000 <span>/服务器节点</span></div>
           <p class="billing-cycle">根据需求定制方案</p>
           <ul class="features">
-              <li><i class="fas fa-check"></i> 无限用户</li>
-              <li><i class="fas fa-check"></i> 无限存储空间</li>
+              <li><i class="fas fa-check"></i> 不限用户</li>
+              <li><i class="fas fa-check"></i> 不限存储空间</li>
               <li><i class="fas fa-check"></i> 电脑版，小程序，H5</li>
               <li><i class="fas fa-check"></i> 7*24专属支持</li>
               <li><i class="fas fa-check"></i> 完全自定义集成</li>
-              <li><i class="fas fa-check"></i> 白标解决方案</li>
               <li><i class="fas fa-check"></i> 自定义系统品牌</li>
               <li><i class="fas fa-check"></i> 企业私有化部署</li>
+              <li><i class="fas fa-check"></i> 企业专有小程序</li>
           </ul>
           <a href="/contact/" class="btn btn-outline">联系销售团队</a>
       </div>
@@ -298,7 +290,7 @@ h1 {
     color: white;
 }
 
-.starter {
+.diamond {
     border-top: 5px solid #4cc9f0;
 }
 
