@@ -8,17 +8,20 @@ hero:
   tagline: 产品图册数字化管理，报价方案，报价清单生成，一键分享给客户
   actions:
     - theme: brand
+      text: 试用
+      link: https://pc.album.eintelli.cn/auth/trial
+    - theme: alt
       text: 移动端
       link: ./mobile
-    - theme: brand
-      text: 联系我们
-      link: /contact
-    - theme: brand
+    - theme: alt
       text: 进入电脑版
       link: https://pc.album.eintelli.cn/
-    - theme: brand
+    - theme: alt
       text: 进入移动版
       link: https://m.album.eintelli.cn/
+    - theme: alt
+      text: 联系我们
+      link: /contact
   image:
     src: /logo-album-plus.png
 
