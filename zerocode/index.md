@@ -15,8 +15,11 @@ hero:
       text: 表单引擎
       link: /form-engine
     - theme: alt
-      text: 仪表盘(报表)引擎
+      text: 仪表盘/报表引擎
       link: /dash-engine
+    - theme: alt
+      text: 流程
+      link: /flow
     - theme: alt
       text: 联系我们
       link: /contact

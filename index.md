@@ -19,6 +19,9 @@ hero:
       text: 零代码平台
       link: /zerocode
     - theme: alt
+      text: 流程
+      link: /flow
+    - theme: alt
       text: CRM
       link: /crm
     - theme: alt
