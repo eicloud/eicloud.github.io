@@ -1,6 +1,7 @@
 ---
 layout: home
 title: CRM
+description: 极智云CRM客户关系管理系统。市场活动、线索、客户、商机、报价、销售、开票、回款、客户全业务闭环智能管理。让营销效果清晰可见，用数据驱动下一次决策。
 
 hero:
   name: "极智云CRM"
