@@ -124,6 +124,10 @@ export default defineConfig({
     footer: {
       message: '简单 智能 高效 降本',
       copyright: 'Copyright © 2009-2025 极智云'
-    }
-  }
+    },
+  },
+
+  sitemap: {
+    hostname: 'https://cloud.eintelli.cn',
+  },
 })
