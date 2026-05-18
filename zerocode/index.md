@@ -9,7 +9,7 @@ hero:
   tagline: 表单 流程 仪表盘 报表 公式 可视化设计器 组织架构 工作台 应用
   actions:
     - theme: brand
-      text: 登录
+      text: 免费使用
       link: https://joy.eintelli.cn/
     - theme: alt
       text: 表单引擎
