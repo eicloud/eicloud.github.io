@@ -122,8 +122,8 @@ export default defineConfig({
     skipToContentLabel: '跳转到内容',
 
     footer: {
-      message: '简单 智能 高效 降本',
-      copyright: 'Copyright © 2009-2025 极智云'
+      message: '简单 智能 高效',
+      copyright: `Copyright © 2009-${new Date().getFullYear()} 极智云 为客户创造价值`
     },
   },
 
