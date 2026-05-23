@@ -52,7 +52,7 @@ export default defineConfig({
       'meta',
       {
         property: 'og:image',
-        content: frontmatter.image ?? 'https://www.eintelli.cn/platform-logo.webp',
+        content: frontmatter.image ?? 'https://www.eintelli.cn/platform-logo-h48.png',
       }
     ]);
   },
@@ -128,6 +128,6 @@ export default defineConfig({
   },
 
   sitemap: {
-    hostname: 'https://cloud.eintelli.cn',
+    hostname: 'https://www.eintelli.cn',
   },
 })
