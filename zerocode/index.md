@@ -49,9 +49,10 @@ features:
 ---
 
 ## 登录
-<a href="https://joy.eintelli.cn/weixin-login" target="_blank">微信登录</a>
+<a href="https://joy.eintelli.cn/weixin-login" target="_blank">微信扫码登录</a>
 <img src="./image/08-微信登录.png" class="pc-img"/>
-账号登录
+
+<a href="https://joy.eintelli.cn/login" target="_blank">账号登录</a>
 <img src="./image/08-账号登录.png" class="pc-img"/>
 
 ## 工作台
