@@ -52,7 +52,7 @@ export default defineConfig({
       'meta',
       {
         property: 'og:image',
-        content: frontmatter.image ?? 'https://www.eintelli.cn/platform-logo-h48.jpg',
+        content: frontmatter.image ?? 'https://www.eintelli.cn/platform-logo-h600-whitebg.webp',
       }
     ]);
   },
