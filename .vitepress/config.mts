@@ -61,7 +61,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/platform-logo-h48.png',
     nav: [
-      { text: '首页', link: '/' },
+      { text: '极智云', link: '/cloud.html' },
       { text: '超级图册', link: '/album-plus' },
       { text: '超级图册-移动端', link: '/album-plus/mobile' },
       { text: '表单引擎', link: '/form-engine' },
@@ -70,12 +70,12 @@ export default defineConfig({
       { text: '流程', link: '/flow' },
       { text: 'CRM', link: '/crm' },
       { text: '项目管理', link: '/pm' },
-      { text: '联系我们', link: '/contact' },
+      { text: '联系方式', link: '/contact' },
       { text: '加入我们', link: '/job' },
     ],
 
     sidebar: [
-      { text: '首页', link: '/' },
+      { text: '极智云', link: '/cloud.html' },
       { text: '超级图册', link: '/album-plus' },
       { text: '超级图册-移动端', link: '/album-plus/mobile' },
       { text: '表单引擎', link: '/form-engine' },
@@ -84,7 +84,7 @@ export default defineConfig({
       { text: '流程', link: '/flow' },
       { text: 'CRM', link: '/crm' },
       { text: '项目管理', link: '/pm' },
-      { text: '联系我们', link: '/contact' },
+      { text: '联系方式', link: '/contact' },
       { text: '加入我们', link: '/job' },
     ],
 
