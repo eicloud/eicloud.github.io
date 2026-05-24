@@ -6,6 +6,7 @@ aside: false
 outline: false
 footer: false
 title: "成都极智软创科技 - 专业软件企业服务商"
+titleTemplate: false
 description: 成都极智软创科技是专业软件企业服务商。深耕软件开发、IT咨询、网站建设与企业组网，为企业提供一站式数字化解决方案，助力业务高效增长，用技术驱动企业数字化升级。
 ---
 
