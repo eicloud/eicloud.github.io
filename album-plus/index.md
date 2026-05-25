@@ -9,10 +9,10 @@ hero:
   tagline: 产品图册数字化管理，一键生成设计方案与报价清单，专属链接即时分享给客户，随时随地在线查看与沟通，高效提升工作效率，塑造专业品牌形象
   actions:
     - theme: brand
-      text: 试用
+      text: 免费试用
       link: https://pc.album.eintelli.cn/auth/trial
     - theme: alt
-      text: 移动端
+      text: 手机端
       link: ./mobile
     - theme: alt
       text: 进入电脑版
@@ -209,7 +209,7 @@ h5版（手机浏览器使用）：https://m.album.eintelli.cn/ <br/>
 ## 10.品牌资料
 ![](./image/电脑版/08-品牌资料.png)
 
-## 移动端功能清单
+## 手机端功能清单
 
 | 模块 | 页面 | 功能 |
 | ---- | ---- | ---- |
