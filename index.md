@@ -14,7 +14,10 @@ description: 成都极智软创科技是专业软件企业服务商。深耕软�
 <nav class="navbar" id="navbar">
     <div class="navbar-inner">
         <a href="#" class="nav-logo">
-            <span class="logo-icon">G</span> 成都极智软创科技
+            <!-- <span class="logo-icon">G</span> -->
+            <!-- <img class="logo-image" src="/platform-logo-h48.png" /> -->
+            <img class="logo-image" src="/logo-gz-blackbg-48.jpg" />
+            成都极智软创科技
         </a>
         <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="菜单">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round">
@@ -268,7 +271,8 @@ description: 成都极智软创科技是专业软件企业服务商。深耕软�
 <footer class="footer">
     <div class="footer-inner">
         <div class="footer-brand">
-            <span class="logo-icon">G</span>
+            <!-- <span class="logo-icon">G</span> -->
+            <img class="logo-image" src="/logo-gz-blackbg-48.jpg" />
             <h4>成都极智软创科技</h4>
             <p style="font-size:0.84rem;">专业软件企业服务商，助力企业数字化升级。</p>
         </div>
@@ -483,6 +487,10 @@ onMounted(() => {
         font-weight: 800;
         flex-shrink: 0;
         box-shadow: 0 4px 14px rgba(26, 111, 245, 0.35);
+    }
+    .nav-logo .logo-image {
+        height: 40px;
+        border-radius: var(--radius-sm);
     }
 
     .nav-links {
@@ -1139,6 +1147,11 @@ onMounted(() => {
         color: #fff;
         font-weight: 800;
         font-size: 1rem;
+        margin-bottom: 1rem;
+    }
+    .footer-brand .logo-image {
+        height: 36px;
+        border-radius: 8px;
         margin-bottom: 1rem;
     }
     .footer-brand h4 {

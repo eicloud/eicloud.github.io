@@ -1,0 +1,8 @@
+/* 自定义全局样式 */
+
+/* 图标大小 */
+.VPNavBar .logo {
+  width: auto;
+  height: 32px;
+  border-radius: 8px;
+}
