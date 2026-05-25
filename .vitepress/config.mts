@@ -60,9 +60,10 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/platform-logo-h48.png',
+    logoLink: '/cloud.html',
     nav: [
       { text: '官网', link: '/' },
-      { text: '极智云', link: '/cloud.html' },
+      // { text: '极智云', link: '/cloud.html' },
       { text: '超级图册', link: '/album-plus' },
       // { text: '超级图册-手机端', link: '/album-plus/mobile' },
       { text: '表单引擎', link: '/form-engine' },
