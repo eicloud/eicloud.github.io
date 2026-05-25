@@ -5,6 +5,7 @@ export default defineConfig({
   title: "极智云",
   description: "极智云是企业数智化转型的敏捷引擎。超级图册。零代码应用搭建平台，帮助各行业人员在不使用代码的情况下快速搭建个性化的CRM、ERP、OA、项目管理、CMS内容管理、进销存等系统，产品包含自定义表单、自定义报表、自定义流程、工作台、组织架构、团队协作等功能，适用于各种业务场景，大幅降低开发与运维成本。让创新更快落地，让数据驱动决策——极智云，您身边的数字化转型伙伴。",
   lang: 'zh-CN',
+  appearance: false,
 
   head: [
     // ['link', {rel:'icon', href:'/favicon.ico'}],
@@ -69,40 +70,48 @@ export default defineConfig({
     logoLink: '/cloud.html',
     nav: [
       { text: '官网', link: '/' },
-      // { text: '极智云', link: '/cloud.html' },
-      { text: '超级图册', link: '/album-plus' },
-      // { text: '超级图册-手机端', link: '/album-plus/mobile' },
-      { text: '表单引擎', link: '/form-engine' },
-      { text: '仪表盘引擎', link: '/dash-engine' },
-      { text: '零代码平台', link: '/zerocode' },
-      { text: '流程', link: '/flow' },
-      { text: 'CRM', link: '/crm' },
-      { text: '项目管理', link: '/pm' },
-      { text: '联系方式', link: '/contact' },
-      { text: '加入我们', link: '/job' },
+      { text: '极智云', link: '/cloud.html' },
+      { text: '超级图册', link: '/album-plus/' },
+      { text: '表单引擎', link: '/form-engine/' },
+      { text: '仪表盘引擎', link: '/dash-engine/' },
+      { text: '流程', link: '/flow/' },
+      { text: '零代码平台', link: '/zerocode/' },
+      { text: 'CRM', link: '/crm/' },
+      { text: '项目管理', link: '/pm/' },
+      // { text: '产品', items: [
+      //   { text: '超级图册', link: '/album-plus/' },
+      //   { text: '表单引擎', link: '/form-engine/' },
+      //   { text: '仪表盘引擎', link: '/dash-engine/' },
+      //   { text: '流程', link: '/flow/' },
+      //   { text: '零代码平台', link: '/zerocode/' },
+      //   { text: 'CRM', link: '/crm/' },
+      //   { text: '项目管理', link: '/pm/' },
+      // ] },
+      { text: '联系方式', link: '/contact/' },
+      { text: '加入我们', link: '/job/' },
     ],
 
     sidebar: [
       { text: '官网', link: '/' },
       { text: '极智云', link: '/cloud.html' },
-      { text: '超级图册', link: '/album-plus' },
+      { text: '超级图册', link: '/album-plus/' },
       { text: '超级图册-手机端', link: '/album-plus/mobile/' },
-      { text: '表单引擎', link: '/form-engine' },
-      { text: '仪表盘引擎', link: '/dash-engine' },
-      { text: '零代码平台', link: '/zerocode' },
+      { text: '表单引擎', link: '/form-engine/' },
+      { text: '仪表盘引擎', link: '/dash-engine/' },
+      { text: '零代码平台', link: '/zerocode/' },
       { text: '零代码平台-手机端', link: '/zerocode/mobile/' },
-      { text: '流程', link: '/flow' },
-      { text: 'CRM', link: '/crm' },
-      { text: '项目管理', link: '/pm' },
-      { text: '联系方式', link: '/contact' },
-      { text: '加入我们', link: '/job' },
+      { text: '流程', link: '/flow/' },
+      { text: 'CRM', link: '/crm/' },
+      { text: '项目管理', link: '/pm/' },
+      { text: '联系方式', link: '/contact/' },
+      { text: '加入我们', link: '/job/' },
     ],
 
     externalLinkIcon: true,
 
-    socialLinks: [
-      // { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ],
+    // socialLinks: [
+    //   { icon: 'github', link: 'https://github.com/eicloud/eicloud.github.io' }
+    // ],
 
     outline: {
       label: '页面导航'
