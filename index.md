@@ -158,7 +158,9 @@ description: 成都极智软创科技是专业软件企业服务商。深耕软�
                     <span class="tag">VPN搭建</span>
                     <span class="tag">网络安全</span>
                     <span class="tag">无线覆盖</span>
-                    <span class="tag">运维支持</span>
+                    <!-- <span class="tag">运维支持</span> -->
+                    <span class="tag">文件共享</span>
+                    <span class="tag">打印共享</span>
                 </div>
                 <a href="#cta" class="card-link">
                     了解详情
