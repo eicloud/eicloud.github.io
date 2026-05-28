@@ -378,7 +378,7 @@ onMounted(() => {
 });
 </script>
 
-<style scope>
+<style>
     :root {
         --primary: #1a6ff5;
         --primary-dark: #0d4eb3;
