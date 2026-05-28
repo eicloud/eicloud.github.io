@@ -207,12 +207,12 @@ head:
     </div>
 </div>
 
-<!-- <footer>
+<footer>
     <div class="container">
-        <p><i class="fas fa-cubes"></i> FormEngine·X — 智能表单引擎，驱动业务自动化</p>
-        <p style="margin-top: 16px; font-size: 0.8rem;">© 2025 表单引擎 | 企业级低代码表单平台 | 支持私有化部署</p>
+        <p><i class="fas fa-cubes"></i> 极智云 — 智能表单引擎，驱动业务自动化</p>
+        <p style="margin-top: 16px; font-size: 0.8rem;">© {{new Date().getFullYear()}} 表单引擎 | 企业级低代码表单平台 | 支持私有化部署</p>
     </div>
-</footer> -->
+</footer>
 
 <script setup>
 import { onMounted } from 'vue';
@@ -638,12 +638,12 @@ input:focus, select:focus, textarea:focus {
     }
 }
 
-/* footer {
+footer {
     background: #0f172a;
     color: #cbd5e1;
     padding: 40px 0;
     text-align: center;
-} */
+}
 
 .cta {
     background: #2d7a4b;
