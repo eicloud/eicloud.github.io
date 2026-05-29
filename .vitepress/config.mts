@@ -37,11 +37,21 @@ export default defineConfig({
 
     
     // og
+    const ogTitleArray = [];
+    if (pageData.title && pageData.title.trim() !== '') {
+      ogTitleArray.push(pageData.title.trim());
+    }
+    if (pageData.titleTemplate !== false) {
+      const titlePrefix = pageData.titleTemplate === true || pageData.titleTemplate === undefined ? ctx.siteConfig.site.title : pageData.titleTemplate;
+      if (titlePrefix && titlePrefix.trim() !== '') {
+        ogTitleArray.push(titlePrefix.trim());
+      }
+    }
     head.push([
       'meta',
       {
         property: 'og:title',
-        content: pageData.title ? `${pageData.title} | ${ctx.siteConfig.site.title}` : ctx.siteConfig.site.title,
+        content: ogTitleArray.join(' | '),
       }
     ]);
     if (pageData.description) {
