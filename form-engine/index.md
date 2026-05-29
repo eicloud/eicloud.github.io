@@ -17,14 +17,14 @@ head:
 ---
 
 <!-- 导航 / Hero 简洁 -->
-<div class="gradient-bg" style="padding: 20px 0 80px 0;">
+<div class="gradient-bg" style="padding: 20px 20px 80px 20px;">
     <div class="container">
         <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 60px;">
             <div style="font-size: 1.8rem; font-weight: 700; color: white;">
                 <i class="fas fa-cubes" style="margin-right: 8px;"></i> 极智云<span style="font-weight: 400;">·表单引擎</span>
             </div>
-            <div>
-                <a href="./doc/" class="btn btn-outline-light" style="margin-right: 12px;">产品文档</a>
+            <div style="display: flex; gap: 12px; flex-wrap: wrap;">
+                <a href="./doc/" class="btn btn-outline-light">产品文档</a>
                 <a href="https://joy.eintelli.cn" class="btn btn-primary" style="background: #ffb347; color:#1e293b;">开始免费使用 <i class="fas fa-arrow-right"></i></a>
             </div>
         </div>
@@ -337,10 +337,13 @@ body {
     scroll-behavior: smooth;
 }
 
+h1, h2, h3 {
+    line-height: 1.2;
+}
+
 .container {
     max-width: 1280px;
     margin: 0 auto;
-    padding: 0 24px;
 }
 
 /* 渐变 & 辅助背景 */
