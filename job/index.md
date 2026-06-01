@@ -1,7 +1,7 @@
 # 加入我们
 联系电话：15928679486（祝先生）  
 微信二维码（请扫码添加）  
-![](../contact/wechat-qrcode-zj.png)
+<img src="../contact/wechat-qrcode-zj.png" class="img-border"/>
 
 ## 销售合作伙伴
 诚邀有志之士/企业，携手开拓软件代理新蓝海！  

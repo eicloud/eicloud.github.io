@@ -63,45 +63,44 @@ h5版（手机浏览器使用）：https://m.album.eintelli.cn/ <br/>
 <img src="./image/小程序/智能云图册-小程序-正式.png" style="width:266px;" />
 
 ## 1.主页
-<!-- ![](./image/小程序/01-首页.jpg) -->
-<img src="./image/小程序/01-首页.jpg" class="mobile-img"/>
+<img src="./image/小程序/01-首页.jpg" class="mobile-img img-border"/>
 
 
 ## 2.分类
-<img src="./image/小程序/02-系列.jpg" class="mobile-img"/>
+<img src="./image/小程序/02-系列.jpg" class="mobile-img img-border"/>
 
 
 ## 3.产品
 
 ### 产品-列表
-<img src="./image/小程序/03-产品-列表.jpg" class="mobile-img"/>
+<img src="./image/小程序/03-产品-列表.jpg" class="mobile-img img-border"/>
 
 ### 产品-过虑
-<img src="./image/小程序/04-产品-过虑条件.jpg" class="mobile-img"/>
+<img src="./image/小程序/04-产品-过虑条件.jpg" class="mobile-img img-border"/>
 
 ### 产品-详情
-<img src="./image/小程序/03-产品-详情.jpg" class="mobile-img"/>
+<img src="./image/小程序/03-产品-详情.jpg" class="mobile-img img-border"/>
 
 ### 产品-详情
-<img src="./image/小程序/03-产品-详情2.jpg" class="mobile-img"/>
+<img src="./image/小程序/03-产品-详情2.jpg" class="mobile-img img-border"/>
 
 ### 产品-图库
-<img src="./image/小程序/03-产品-图库.jpg" class="mobile-img"/>
+<img src="./image/小程序/03-产品-图库.jpg" class="mobile-img img-border"/>
 
 
 ## 4.方案
 
 ### 方案-编辑
-<img src="./image/小程序/05-方案.jpg" class="mobile-img"/>
+<img src="./image/小程序/05-方案.jpg" class="mobile-img img-border"/>
 
 ### 方案-分享参数设置
-<img src="./image/小程序/05-方案-分享.jpg" class="mobile-img"/>
+<img src="./image/小程序/05-方案-分享.jpg" class="mobile-img img-border"/>
 
 ### 方案-分享微信好友聊天
-<img src="./image/小程序/05-分享.jpg" class="mobile-img"/>
+<img src="./image/小程序/05-分享.jpg" class="mobile-img img-border"/>
 
 ## 5.我的
-<img src="./image/小程序/07-我的.jpg" class="mobile-img"/>
+<img src="./image/小程序/07-我的.jpg" class="mobile-img img-border"/>
 
 
 ## 6.手机端功能清单
@@ -177,18 +176,9 @@ h5版（手机浏览器使用）：https://m.album.eintelli.cn/ <br/>
 
 
 ## 联系我们
-如果您有软件需求或咨询，请联系我们，竭诚为您提供专业信息化服务。<br/>
-联系电话：15928679486（祝先生）
+请联系我们，竭诚为您提供专业信息化服务。  
+深耕软件开发、IT咨询、网站建设与企业组网，为企业提供一站式数字化解决方案，助力业务高效增长。  
 
-微信二维码（请扫码添加）
-
-![](../contact/wechat-qrcode-zj.png)
-
-
-<style scoped>
-@media (min-width: 450px) {
-  .mobile-img {
-    width: 360px;
-  }
-}
-</style>
+联系电话：15928679486（祝先生）  
+微信二维码（请扫码添加）  
+<img src="/contact/wechat-qrcode-zj.png" class="img-border"/>

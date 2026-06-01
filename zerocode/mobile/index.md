@@ -12,48 +12,39 @@ https://joy.eintelli.cn/
 
 ## 微信登录
 <a href="https://joy.eintelli.cn/weixin-login" target="_blank">微信扫码登录</a>
-<img src="./image/登录.jpg" class="mobile-img"/>
+<img src="./image/登录.jpg" class="mobile-img img-border"/>
 
 长按二维码图片 进入 登录助手
-<img src="./image/登录-2.jpg" class="mobile-img"/>
+<img src="./image/登录-2.jpg" class="mobile-img img-border"/>
 
 ## 工作台
-<img src="./image/工作台.jpg" class="mobile-img"/>
+<img src="./image/工作台.jpg" class="mobile-img img-border"/>
 
 ## 表单
 表单数据
-<img src="./image/表单-数据.jpg" class="mobile-img"/>
+<img src="./image/表单-数据.jpg" class="mobile-img img-border"/>
   
 表单编辑
-<img src="./image/表单-编辑.jpg" class="mobile-img"/>
+<img src="./image/表单-编辑.jpg" class="mobile-img img-border"/>
   
 下拉框
-<img src="./image/表单-下拉框.jpg" class="mobile-img"/>
+<img src="./image/表单-下拉框.jpg" class="mobile-img img-border"/>
   
 日期选择
-<img src="./image/表单-日期.jpg" class="mobile-img"/>
+<img src="./image/表单-日期.jpg" class="mobile-img img-border"/>
 
 ## 仪表盘
-<img src="./image/仪表盘-1.jpg" class="mobile-img"/>
+<img src="./image/仪表盘-1.jpg" class="mobile-img img-border"/>
 <br/>
-<img src="./image/仪表盘-2.jpg" class="mobile-img"/>
+<img src="./image/仪表盘-2.jpg" class="mobile-img img-border"/>
 
 ## 菜单
-<img src="./image/应用菜单.jpg" class="mobile-img"/>
+<img src="./image/应用菜单.jpg" class="mobile-img img-border"/>
 
 ## 联系我们
-如果您有软件需求或咨询，请联系我们，竭诚为您提供专业信息化服务。<br/>
-联系电话：15928679486（祝先生）
+请联系我们，竭诚为您提供专业信息化服务。  
+深耕软件开发、IT咨询、网站建设与企业组网，为企业提供一站式数字化解决方案，助力业务高效增长。  
 
-微信二维码（请扫码添加）
-
-![](/contact/wechat-qrcode-zj.png)
-
-
-<style scoped>
-@media (min-width: 450px) {
-  .mobile-img {
-    width: 360px;
-  }
-}
-</style>
+联系电话：15928679486（祝先生）  
+微信二维码（请扫码添加）  
+<img src="/contact/wechat-qrcode-zj.png" class="img-border"/>
