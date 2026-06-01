@@ -23,6 +23,9 @@ hero:
     - theme: alt
       text: 联系我们
       link: /contact
+    - theme: alt
+      text: 操作手册
+      link: ./operation-manual.md
   image:
     src: /logo-album-plus.png
 
