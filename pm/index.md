@@ -1,31 +1,59 @@
+---
+description: 极智云项目系统——全链路生命周期管理。覆盖客户报备、售前跟进、报价、合同，贯穿项目计划、实施、收款、结算，实现项目全生命周期的数字化智能闭环管理。
+# outline: deep
+outline: [2,3]
+---
+
 # 极智云项目管理系统
-项目全链路生命周期管理，从客户报备，售前跟进，报价，合同。到项目计划，实施，收款，结算。做到项目生命周期全链路数字化智能闭环管理。
+极智云项目系统——全链路生命周期管理。覆盖客户报备、售前跟进、报价、合同，贯穿项目计划、实施、收款、结算，实现项目全生命周期的数字化智能闭环管理。
 
-智能图表，以图形化方式展示项目数据（柱状图、折线图、热力图等），使无形的数据具象化，让数据会说话。
 
-智能报表，数据驱动决策，效率提升看得见。智能生成每日/周/月数据报告，一键导出。
+## 🚀 项目管理系统核心能力
+| 能力模块 | 功能描述 |
+|---|---|
+| 📊 **可视化图表** | 支持柱状图、折线图、饼图等多种图表类型，直观呈现项目数据趋势与分布，让无形数据化身具象表达，真正让数据开口说话。为企业决策提供科学依据，全面提升运营效率。 |
+| 📋 **多维看板** | 提供状态维度看板（按任务状态流转）与负责人维度看板（按人员归属分组），灵活切换管理视角 |
+| 🔧 **动态扩展配置** | 表单字段与仪表盘组件支持在线拖拽配置，无需代码即可按需扩展业务模块 |
+| 📱 **多端适配** | 电脑端与手机端同步支持，数据实时同步，随时随地管理项目 |
 
-数智分析，以项目全链路数字化信息为基础，对项目各环节进行数据智能化分析，为企业决策提供科学依据，提升企业效率。
+## 项目
 
-## 项目分析
-![](image/项目分析.png)
+### 项目列表
+<img src="./image/project-list.png" class="img-border"/>
+<br/>
 
-## 项目列表
-![](image/项目列表.png)
+### 项目编辑
+<img src="./image/project-edit.png" class="img-border"/>
+<br/>
 
-## 跟进记录
-![](image/跟进列表.png)
+### 项目看板-状态维度
+<img src="./image/project-kanban-status.png" class="img-border"/>
+<br/>
 
-## 报价管理
-![](image/报价列表.png)
+### 项目看板-负责人维度
+<img src="./image/project-kanban-user.png" class="img-border"/>
 
-## 投标管理
-![](image/投标列表.png)
 
-## 合同管理
-![](image/合同列表.png)
+## 任务
 
-## 实施计划
-![](image/实施计划列表.png)
+### 任务列表
+<img src="./image/task-list.png" class="img-border"/>
+<br/>
 
-![](image/实施计划图表.png)
+### 任务列表-手机端
+<img src="./image/task-list-mobile.jpg" class="img-border mobile-img"/>
+<br/>
+
+### 任务看板-状态维度
+<img src="./image/task-kanban-status.png" class="img-border"/>
+<br/>
+
+### 任务看板-负责人维度
+<img src="./image/task-kanban-user.png" class="img-border"/>
+<br/>
+
+### 任务编辑-手机端
+<img src="./image/task-edit-mobile.jpg" class="img-border mobile-img"/>
+<br/>
+<img src="./image/task-edit-mobile2.jpg" class="img-border mobile-img"/>
+<br/>
