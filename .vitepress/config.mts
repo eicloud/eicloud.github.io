@@ -22,9 +22,6 @@ export default defineConfig({
         s.parentNode.insertBefore(hm, s);
       })();
     `],
-
-    // 自定义全局样式
-    ['link', { rel: 'stylesheet', href: '/global.css' }],
   ],
 
   transformPageData(pageData, ctx) {
