@@ -115,102 +115,109 @@ h5版（手机浏览器使用）：https://m.album.eintelli.cn/ <br/>
 快速制作报价方案，一键生成报价清单，赋能企业产品销售。
 
 ## 1.登录
-![](./image/电脑版/01-登录.png)
+<img src="./image/电脑版/01-登录.png" class="img-border"/>
 
 
 ## 2.主页
-![](./image/电脑版/02-主页.png)
+<img src="./image/电脑版/02-主页.png" class="img-border"/>
 
 
 ## 3.产品库
-![](./image/电脑版/03-产品库.png)
+<img src="./image/电脑版/03-产品库.png" class="img-border"/>
 <br/>
 产品库-长图
-![](./image/电脑版/03-产品库-长图.png)
+<img src="./image/电脑版/03-产品库-长图.png" class="img-border"/>
 
 ### 产品库-产品筛选
-![](./image/电脑版/03-产品库-系列颜色过虑.png)
+<img src="./image/电脑版/03-产品库-系列颜色过虑.png" class="img-border"/>
 
 
 ## 4.产品详情
-![](./image/电脑版/04-产品详情.png)
-![](./image/电脑版/04-产品详情-详情.png)
+<img src="./image/电脑版/04-产品详情.png" class="img-border"/>
+<br/>
+<img src="./image/电脑版/04-产品详情-详情.png" class="img-border"/>
 
 ### 产品详情-下载图库PDF
-![](./image/电脑版/04-产品详情-下载图库.png)
+<img src="./image/电脑版/04-产品详情-下载图库.png" class="img-border"/>
 
 ### 图库
-![](./image/电脑版/04-产品图库.png)
+<img src="./image/电脑版/04-产品图库.png" class="img-border"/>
 
 
 ## 5.分享产品
-![](./image/电脑版/04-产品详情-分享产品.png)
+<img src="./image/电脑版/04-产品详情-分享产品.png" class="img-border"/>
+
 ### 分享产品-修改图片
-![](./image/电脑版/04-产品详情-分享产品-改图.png)
+<img src="./image/电脑版/04-产品详情-分享产品-改图.png" class="img-border"/>
+
 ### 分享产品-调价
-![](./image/电脑版/04-产品详情-分享产品-调价.png)
+<img src="./image/电脑版/04-产品详情-分享产品-调价.png" class="img-border"/>
+
 ### 分享产品-显示字段
-![](./image/电脑版/04-产品详情-分享产品-显示字段.png)
+<img src="./image/电脑版/04-产品详情-分享产品-显示字段.png" class="img-border"/>
 
 
 ## 6.方案设计
 ### 进入方案设计状态
-![](./image/电脑版/05-方案编辑-编辑中状态.png)
+<img src="./image/电脑版/05-方案编辑-编辑中状态.png" class="img-border"/>
 
 ### 方案设计-空间产品
-![](./image/电脑版/05-方案编辑.png)
+<img src="./image/电脑版/05-方案编辑.png" class="img-border"/>
 
 ### 方案设计-空间产品-详细信息
-![](./image/电脑版/05-方案编辑-展开.png)
+<img src="./image/电脑版/05-方案编辑-展开.png" class="img-border"/>
 
 ### 方案设计-空间产品-改价
-![](./image/电脑版/05-方案编辑-改价.png)
+<img src="./image/电脑版/05-方案编辑-改价.png" class="img-border"/>
 
 ### 方案设计-空间产品-自定义产品
-![](./image/电脑版/05-方案编辑-快速自定义产品.png)
+<img src="./image/电脑版/05-方案编辑-快速自定义产品.png" class="img-border"/>
 
 ### 方案设计-预览
-![](./image/电脑版/05-方案编辑-预览.png)
+<img src="./image/电脑版/05-方案编辑-预览.png" class="img-border"/>
 <br/>
 预览-长图<br/>
-![](./image/电脑版/05-方案编辑-预览-长图.png)
+<img src="./image/电脑版/05-方案编辑-预览-长图.png" class="img-border"/>
 
 
 ## 7.报价清单
 ### 报价清单-配置
-![](./image/电脑版/05-方案编辑-报价清单配置.png)
+<img src="./image/电脑版/05-方案编辑-报价清单配置.png" class="img-border"/>
+
 ### 报价清单-分享
-![](./image/电脑版/05-方案编辑-报价清单分享.png)
+<img src="./image/电脑版/05-方案编辑-报价清单分享.png" class="img-border"/>
+
 ### 报价清单-导出excel
-![](./image/电脑版/05-方案编辑-报价清单导出excel.png)
+<img src="./image/电脑版/05-方案编辑-报价清单导出excel.png" class="img-border"/>
 
 
 ## 8.产品管理
 ### 产品管理-创建
-![](./image/电脑版/06-产品管理-创建.png)
+<img src="./image/电脑版/06-产品管理-创建.png" class="img-border"/>
+
 ### 产品管理-批量导入
 下载模板（excel或zip模板二选一）
-![](./image/电脑版/06-产品管理-批量导入2.png)
+<img src="./image/电脑版/06-产品管理-批量导入2.png" class="img-border"/>
 <br/>
 填充数据到模板
-![](./image/电脑版/06-产品管理-批量导入.png)
+<img src="./image/电脑版/06-产品管理-批量导入.png" class="img-border"/>
 <br/>
 导入成功
-![](./image/电脑版/06-产品管理-批量导入3.png)
+<img src="./image/电脑版/06-产品管理-批量导入3.png" class="img-border"/>
 
 ### 产品管理-图库管理
 全部图
-![](./image/电脑版/06-产品管理-图库管理.png)
+<img src="./image/电脑版/06-产品管理-图库管理.png" class="img-border"/>
 <br/>
 产品图
-![](./image/电脑版/06-产品管理-图库管理-产品图.png)
+<img src="./image/电脑版/06-产品管理-图库管理-产品图.png" class="img-border"/>
 
 
 ## 9.工程案例
-![](./image/电脑版/07-工程案例.png)
+<img src="./image/电脑版/07-工程案例.png" class="img-border"/>
 
 ## 10.品牌资料
-![](./image/电脑版/08-品牌资料.png)
+<img src="./image/电脑版/08-品牌资料.png" class="img-border"/>
 
 ## 手机端功能清单
 
@@ -322,9 +329,9 @@ h5版（手机浏览器使用）：https://m.album.eintelli.cn/ <br/>
 
 
 # 联系我们（极智云）
-如果您有软件需求或咨询，请联系我们，竭诚为您提供专业信息化服务。<br/>
-联系电话：15928679486（祝先生）<br/>
+竭诚为您提供专业信息化服务。  
+深耕软件开发、IT咨询、网站建设与企业组网，为企业提供一站式数字化解决方案，助力业务高效增长。  
 
-微信二维码（请扫码添加）<br/>
-
-![](../contact/wechat-qrcode-zj.png)
+联系电话：15928679486（祝先生）  
+微信二维码（请扫码添加）  
+<img src="/contact/wechat-qrcode-zj.png" class="img-border"/>
