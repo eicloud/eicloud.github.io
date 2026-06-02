@@ -108,7 +108,7 @@ export default defineConfig({
       { text: '零代码平台', link: '/zerocode/' },
       { text: '零代码平台-手机端', link: '/zerocode/mobile/' },
       { text: '流程', link: '/flow/' },
-      { text: 'CRM', link: '/crm/' },
+      { text: 'CRM（客户关系管理）', link: '/crm/' },
       { text: '项目管理', link: '/pm/' },
       { text: '联系方式', link: '/contact/' },
       { text: '加入我们', link: '/job/' },
