@@ -1210,7 +1210,7 @@ onMounted(() => {
             border-bottom: 1px solid var(--gray-200);
             padding: 1rem 2rem;
             box-shadow: var(--shadow-lg);
-            gap: 0.3rem;
+            gap: 1rem;
         }
         .nav-links.open {
             display: flex;
