@@ -40,7 +40,7 @@ head:
     </div>
 </div>
 
-<!-- 四大核心特性 -->
+<!-- 核心特性 -->
 <div class="container" id="features">
     <div class="section" style="padding-bottom: 40px;">
         <div style="text-align: center;">
@@ -68,6 +68,11 @@ head:
                 <div class="feature-icon"><i class="fas fa-eye-slash"></i></div>
                 <h3>动态表单 · 显隐规则</h3>
                 <p>条件控制组件显示/隐藏，字段权限动态化，完美适配审批流、多步骤表单。</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon"><i class="fas fa-table"></i></div>
+                <h3><a href="./data-view/">数据视图</a></h3>
+                <p>定义数据的呈现方式。表格视图：表格列、过滤条件、排序。卡片视图：卡片显示字段、图片、布局及大小。</p>
             </div>
         </div>
     </div>
