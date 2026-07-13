@@ -78,7 +78,10 @@ export default defineConfig({
     nav: [
       { text: '官网', link: '/' },
       { text: '极智云', link: '/cloud.html' },
-      { text: '超级图册', link: '/album-plus/' },
+      { text: '超级图册', items: [
+        { text: '超级图册-电脑版', link: '/album-plus/' },
+        { text: '超级图册-手机版', link: '/album-plus/mobile.html' },
+      ]},
       { text: '表单引擎', link: '/form-engine/' },
       { text: '仪表盘引擎', link: '/dash-engine/' },
       { text: '流程', link: '/flow/' },

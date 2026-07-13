@@ -1,24 +1,27 @@
 ---
 layout: home
 title: 超级图册系统
-description: 极智云超级图册系统，产品图册数字化管理，一键生成设计方案与报价清单，专属链接即时分享给客户，随时随地在线查看与沟通，高效提升工作效率，塑造专业品牌形象
+description: 极智云超级图册系统，产品库数字化管理，一键生成设计方案与报价清单，专属链接即时分享给客户，随时随地在线查看与沟通，高效提升工作效率，塑造专业品牌形象
 
 hero:
   name: "极智云超级图册系统"
-  text: "简单、智能、高效，为市场销售抢占先机"
-  tagline: 产品图册数字化管理，一键生成设计方案与报价清单，专属链接即时分享给客户，随时随地在线查看与沟通，高效提升工作效率，塑造专业品牌形象
+  text: "为产品销售更好赋能"
+  tagline: 产品库数字化管理，一键生成设计方案与报价清单，专属链接即时分享给客户，随时随地在线查看与沟通，高效提升工作效率，塑造专业品牌形象
   actions:
     - theme: brand
       text: 免费试用
-      link: https://pc.album.eintelli.cn/auth/trial
+      link: https://album.eintelli.cn/auth/trial
     - theme: alt
       text: 手机端
       link: ./mobile
     - theme: alt
       text: 进入电脑版
-      link: https://pc.album.eintelli.cn/
+      link: https://album.eintelli.cn/
     - theme: alt
-      text: 进入移动版
+      text: 进入小程序版
+      link: /album-plus/mobile.md#mpqrcode
+    - theme: alt
+      text: 进入H5版
       link: https://m.album.eintelli.cn/
     - theme: alt
       text: 联系我们
@@ -103,7 +106,7 @@ features:
 
 
 支持多种客户端登录使用：<br/>
-电脑版（电脑浏览器使用）：https://pc.album.eintelli.cn/ <br/>
+电脑版（电脑浏览器使用）：https://album.eintelli.cn/ <br/>
 h5版（手机浏览器使用）：https://m.album.eintelli.cn/ <br/>
 小程序版（微信长按图片进入小程序）: <br/>
 <img src="./image/小程序/智能云图册-小程序-正式.png" style="width:266px;" />

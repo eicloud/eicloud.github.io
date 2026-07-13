@@ -22,7 +22,7 @@ layout: home
               <li><i class="fas fa-check"></i> 电脑版，小程序，H5</li>
               <li><i class="fas fa-check"></i> 标准支持</li>
           </ul>
-          <a href="https://pc.album.eintelli.cn/auth/trial" target="_blank" class="btn btn-primary">开始免费试用</a>
+          <a href="https://album.eintelli.cn/auth/trial" target="_blank" class="btn btn-primary">开始免费试用</a>
       </div>
       <!-- 企业版 -->
       <div class="pricing-card enterprise popular">
@@ -102,7 +102,7 @@ layout: home
 </div>
 
 ### 超级图册支持多种客户端登录使用
-电脑版（电脑浏览器使用）：https://pc.album.eintelli.cn/ <br/>
+电脑版（电脑浏览器使用）：https://album.eintelli.cn/ <br/>
 h5版（手机浏览器使用）：https://m.album.eintelli.cn/ <br/>
 小程序版（微信小程序使用）: <br/>
 <img src="./image/小程序/智能云图册-小程序-正式.png" style="width:266px;" />
