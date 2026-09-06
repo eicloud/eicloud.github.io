@@ -8,10 +8,10 @@ description: 极智云零代码平台是企业数智化转型的敏捷引擎，�
 <br/>
 <br/>
 免费使用：  
-https://joy.eintelli.cn/
+https://cloud.eintelli.cn/
 
 ## 微信登录
-<a href="https://joy.eintelli.cn/weixin-login" target="_blank">微信扫码登录</a>
+<a href="https://cloud.eintelli.cn/weixin-login" target="_blank">微信扫码登录</a>
 <img src="./image/登录.jpg" class="mobile-img img-border"/>
 
 长按二维码图片 进入 登录助手

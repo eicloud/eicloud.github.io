@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: 免费使用
-      link: https://joy.eintelli.cn/
+      link: https://cloud.eintelli.cn/
     - theme: alt
       text: 手机端
       link: ./mobile/
@@ -49,10 +49,10 @@ features:
 ---
 
 ## 登录
-<a href="https://joy.eintelli.cn/weixin-login" target="_blank">微信扫码登录</a>
+<a href="https://cloud.eintelli.cn/weixin-login" target="_blank">微信扫码登录</a>
 <img src="./image/08-微信登录.png" class="pc-img"/>
 
-<a href="https://joy.eintelli.cn/login" target="_blank">账号登录</a>
+<a href="https://cloud.eintelli.cn/login" target="_blank">账号登录</a>
 <img src="./image/08-账号登录.png" class="pc-img"/>
 
 ## 工作台

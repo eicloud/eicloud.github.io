@@ -12,7 +12,7 @@ description: 极智云仪表盘引擎，支持通过直观的拖拽方式快速�
 <b>工具</b>：筛选组件、快捷筛选、筛选按钮。
 
 免费使用：  
-https://joy.eintelli.cn
+https://cloud.eintelli.cn
 
 ## 仪表盘引擎示例:
 下面用产品分析实际业务场景展示仪表盘引擎功能和特点。

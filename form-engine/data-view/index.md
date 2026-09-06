@@ -9,7 +9,7 @@ description: 极智云表单引擎，拖拽方式搭建业务表单，所见即�
 - **卡片视图**：支持自定义配置卡片显示字段、图片、布局及大小。
 
 免费使用：  
-https://joy.eintelli.cn
+https://cloud.eintelli.cn
 
 [返回表单引擎](../index.md)  
 [返回表单文档](../doc.md)

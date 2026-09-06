@@ -25,7 +25,7 @@ head:
             </div>
             <div style="display: flex; gap: 12px; flex-wrap: wrap;">
                 <a href="./doc/" class="btn btn-outline-light">产品文档</a>
-                <a href="https://joy.eintelli.cn" class="btn btn-primary" style="background: #ffb347; color:#1e293b;">开始免费使用 <i class="fas fa-arrow-right"></i></a>
+                <a href="https://cloud.eintelli.cn" class="btn btn-primary" style="background: #ffb347; color:#1e293b;">开始免费使用 <i class="fas fa-arrow-right"></i></a>
             </div>
         </div>
         <div style="max-width: 700px; color: white;">
@@ -207,7 +207,7 @@ head:
     <div class="cta" style="background: linear-gradient(115deg, #0f2b3d 0%, #1e4a6e 100%); border-radius: 48px; padding: 48px 40px; margin-bottom: 60px; text-align: center; color: white;">
         <h2 style="color: white; margin-bottom: 16px;">准备构建下一代表单应用？</h2>
         <p style="font-size: 1.1rem; margin-bottom: 32px; opacity: 0.9;">可视化设计器 + 全配置规则，让产品、运营均可自主搭建复杂表单</p>
-        <a href="https://joy.eintelli.cn" class="btn btn-primary" style="background: #ffb347; color: #1e293b; font-size: 1rem;">立即申请演示 <i class="fas fa-arrow-right"></i></a>
+        <a href="https://cloud.eintelli.cn" class="btn btn-primary" style="background: #ffb347; color: #1e293b; font-size: 1rem;">立即申请演示 <i class="fas fa-arrow-right"></i></a>
         <p style="margin-top: 24px; font-size: 0.8rem;">免费使用</p>
     </div>
 </div>
