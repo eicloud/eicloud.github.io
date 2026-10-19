@@ -45,7 +45,7 @@ description: 成都极智软创科技是专业软件企业服务商。提供开�
         <div class="hero-text">
             <span class="hero-badge">🚀 专业软件企业服务商</span>
             <h1>用<span class="highlight">技术</span>驱动<br>企业数字化升级</h1>
-            <p>深耕软件开发、IT咨询、网站建设与企业组网，为企业提供一站式数字化解决方案，助力业务高效增长。</p>
+            <p>深耕软件开发、官网、信息系统、企业组网与IT咨询，为企业提供一站式数字化解决方案，助力业务高效增长。</p>
             <div class="hero-buttons">
                 <a href="#services" class="btn btn-primary">查看服务项目</a>
                 <a href="#cta" class="btn btn-outline">预约演示</a>
@@ -55,8 +55,8 @@ description: 成都极智软创科技是专业软件企业服务商。提供开�
             <div class="hero-card-stack">
                 <div class="hero-floating-card card-1">
                     <div class="card-icon blue">📱</div>
-                    <h4>小程序开发</h4>
-                    <span>微信/支付宝/抖音全平台</span>
+                    <h4>软件开发</h4>
+                    <span>小程序/APP/H5/信息系统</span>
                 </div>
                 <div class="hero-floating-card card-2">
                     <div class="card-icon green">🌐</div>
@@ -679,7 +679,7 @@ onMounted(() => {
     .hero-card-stack {
         position: relative;
         width: 320px;
-        height: 380px;
+        height: 390px;
     }
     .hero-floating-card {
         position: absolute;
@@ -697,7 +697,7 @@ onMounted(() => {
         animation: floatCard1 5s ease-in-out infinite;
     }
     .hero-floating-card.card-2 {
-        top: 100px;
+        top: 138px;
         right: 0;
         width: 220px;
         z-index: 2;
@@ -705,7 +705,7 @@ onMounted(() => {
     }
     .hero-floating-card.card-3 {
         bottom: 0;
-        left: 30px;
+        left: 25px;
         width: 240px;
         z-index: 1;
         animation: floatCard3 5s ease-in-out infinite;
@@ -1229,10 +1229,6 @@ onMounted(() => {
         .hero-buttons {
             justify-content: center;
         }
-        .hero-card-stack {
-            width: 260px;
-            height: 300px;
-        }
         .hero-floating-card.card-1 {
             width: 210px;
             left: 0;
@@ -1265,9 +1261,6 @@ onMounted(() => {
         }
         .hero {
             padding: 120px 1rem 60px;
-        }
-        .hero-card-stack {
-            display: none;
         }
         .hero-visual {
             flex: 0 0 auto;
