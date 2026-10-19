@@ -18,7 +18,7 @@ description: 成都极智软创科技是专业软件企业服务商。提供开�
         <a href="#" class="nav-logo">
             <!-- <span class="logo-icon">G</span> -->
             <!-- <img class="logo-image" src="/platform-logo-h48.png" /> -->
-            <img class="logo-image" src="/logo-gz-blackbg-48.jpg" />
+            <img class="logo-image" src="/logo-gz-blackbg-48.jpg" alt="logo" />
             成都极智软创科技
         </a>
         <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="菜单">
@@ -276,7 +276,7 @@ description: 成都极智软创科技是专业软件企业服务商。提供开�
     <div class="footer-inner">
         <div class="footer-brand">
             <!-- <span class="logo-icon">G</span> -->
-            <img class="logo-image" src="/logo-gz-blackbg-48.jpg" />
+            <img class="logo-image" src="/logo-gz-blackbg-48.jpg" alt="logo" />
             <h4>成都极智软创科技</h4>
             <p style="font-size:0.84rem;">专业软件企业服务商，助力企业数字化升级。</p>
         </div>
