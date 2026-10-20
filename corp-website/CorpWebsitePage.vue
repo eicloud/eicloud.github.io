@@ -515,7 +515,7 @@ import HeaderJZRC from '../components/HeaderJZRC.vue';
   }
   @media (max-width:860px){
     .nav{display:none;}
-    .hero{padding:58px 0 42px;}
+    .hero{padding:100px 0 42px;}
     .cta-inner{padding:40px 32px;}
   }
   @media (max-width:780px){
